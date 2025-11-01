@@ -19,6 +19,8 @@ ___
 ## terminal utilites
 1. [neovim](https://github.com/neovim/neovim) - text editor
 2. [fish](https://github.com/fish-shell/fish-shell) - terminal shell
-3. [htop](https://github.com/htop-dev/htop) - interactive process viewer
+3. [htop](https://github.com/htop-dev/htop) - task manager
 4. [fastfetch](https://github.com/fastfetch-cli/fastfetch) - fetch
 5. [cmus](https://github.com/cmus/cmus) - CLI music player
+___
+also my chromium [theme](https://github.com/sdkiyo/chromium-theme)
